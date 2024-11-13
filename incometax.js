@@ -1,4 +1,3 @@
-<script>
     function addListeners() {
         document.getElementById("ti").addEventListener("keyup", computeTax);
     }
@@ -38,4 +37,3 @@
     (() => {
         addListeners();
     })();
-</script>
